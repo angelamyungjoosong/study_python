@@ -6,7 +6,7 @@
 #slicing
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 # 특정한 역할 가진  method가지고 있는것임 
-
+pass 
 # 변수 타입 궁금할때
 type(thislist)
 # <class 'list'>
@@ -21,6 +21,8 @@ len(thislist)
 # list에서는 뒷부분은 -1이 적용(밑에서 오렌지는 안나옴)
 thislist[1:3]   
 # ['banana', 'cherry']
+
+
 
 # 뒤에서부터 갈때는 string과 같이 -1적용 안됨 
 thislist[:-1]
