@@ -14,6 +14,8 @@ while (1==1) :
                 print(fruit_print_format.format(index, fruit))
 
 
+# for문 안에 if문으로 돌리기 
+
 
 
 # fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
